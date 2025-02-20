@@ -97,11 +97,11 @@
             <td>Mengobrol bersama keluarga</td>
             <td>20:30 - 21:00</td>
         </tr>
-        <td>10.</td>
+            <td>10.</td>
             <td>Tidur</td>
             <td>22:00</td>
         </tr>
-        <td>11.</td>
+            <td>11.</td>
             <td>Bangun tidur</td>
             <td>04:00</td>
         </tr>
@@ -137,6 +137,8 @@
         }
         
         ?>
+        
+        <br>
         <h3>Bahan Diskusi</h3>
         <p class="member">Anggota:
             <br>Fahrunnisa Kusumawardani (14)
